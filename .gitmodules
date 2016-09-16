@@ -1,0 +1,7 @@
+[submodule "kv"]
+    path = apps/kv
+    url = git@github.com:artem-russkikh/kv.git
+
+[submodule "kv_server"]
+    path = apps/kv_server
+    url = git@github.com:artem-russkikh/kv_server.git
